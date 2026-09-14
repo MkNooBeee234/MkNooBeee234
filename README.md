@@ -33,6 +33,8 @@ mknoobeee@cyber-lab:~$ cat /etc/identity
 | Project | Domain | Architecture |
 |:---|:---|:---|
 | ✈️ **[RAPA Engine](https://github.com/savanthkumarvedesh-code/rapa-engine)** | Real-Time Airfare Price Augmentation & CPI Engine | High-frequency aviation intelligence platform augmenting MoSPI CPI Item 294. Features a multi-phase stealth scraper, dynamic DOM capture, Gemini Flash AI extraction pipeline, matched Jevons geometric index, and a FastAPI portal. |
+| 🛡️ **[mockair-network](https://github.com/MkNooBeee234/mockair-network)** | Network Simulation & Routing | Interactive network simulation, topology testing, and routing architecture. |
+| ⚔️ **[asuraverse_esports_website](https://github.com/MkNooBeee234/asuraverse_esports_website)** | Web Platform & UI | High-performance esports community portal, real-time match tracking, and responsive tournament UI. |
 
 ---
 
