@@ -28,6 +28,14 @@ mknoobeee@cyber-lab:~$ cat /etc/identity
 
 ---
 
+## 🚀 Featured Deployments
+
+| Project | Domain | Architecture |
+|:---|:---|:---|
+| ✈️ **[RAPA Engine](https://github.com/savanthkumarvedesh-code/rapa-engine)** | Real-Time Airfare Price Augmentation & CPI Engine | High-frequency aviation intelligence platform augmenting MoSPI CPI Item 294. Features a multi-phase stealth scraper, dynamic DOM capture, Gemini Flash AI extraction pipeline, matched Jevons geometric index, and a FastAPI portal. |
+
+---
+
 ## 🛠️ Technical Arsenal
 
 ### 🔒 Security, Networks & Systems
@@ -44,6 +52,7 @@ mknoobeee@cyber-lab:~$ cat /etc/identity
 ### 💻 Programming & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -51,45 +60,7 @@ mknoobeee@cyber-lab:~$ cat /etc/identity
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
 </p>
 
-### 🌐 Web & Application Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
-
 ---
-
-## 🚀 Featured Deployments
-
-| Project | Domain | Architecture |
-|:---|:---|:---|
-| 🛡️ **[mockair-network](https://github.com/MkNooBeee234/mockair-network)** | Network Simulation & Architecture | Interactive network simulation and routing system |
-| ⚔️ **[asuraverse_esports_website](https://github.com/MkNooBeee234/asuraverse_esports_website)** | Web Platform & UI | Responsive esports community portal & tournament tracker |
-
----
-
-## 📊 Telemetry & GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MkNooBeee234&show_icons=true&theme=radical&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=94a3b8&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MkNooBeee234&layout=compact&theme=radical&hide_border=true&title_color=00ffc8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MkNooBeee234&theme=radical&hide_border=true&stroke=00ffc8&ring=00ffc8&fire=00ffc8&currStreakLabel=00ffc8&background=0d1117" alt="GitHub Streak" width="96%" />
-</div>
-
----
-
-## 🔐 Contact & Verification
-
-> [!NOTE]
-> *Communications strictly routed through secure channels.*
-
-- **GitHub Discussions / Issues:** In designated project repositories
-- **GPG Key ID:** `[Configured / Available on demand]`
-- **Encrypted Mail:** Contact through verified handles
 
 <div align="center">
   <sub>Hardened profile • Zero PII Exposure • 2026</sub>
